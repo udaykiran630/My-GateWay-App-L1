@@ -4,7 +4,7 @@
 
 ---
 
-## 🌟 Highlights & Key Features
+##  Highlights & Key Features :
 
 - **📱 Mobile-First Security Guard Terminal (`/guard`)**:
   - High-contrast, large touch-target buttons tailored for gate tablets and mobile phones.
